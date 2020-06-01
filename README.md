@@ -1,3 +1,4 @@
+[![Build Status](https://mamadba.visualstudio.com/Space%20Game%20Pipeline/_apis/build/status/mduarte95.mslearn-tailspin-spacegame-web?branchName=master)](https://mamadba.visualstudio.com/Space%20Game%20Pipeline/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
